@@ -1,6 +1,3 @@
-<img width="1350" height="66" alt="image" src="https://github.com/user-attachments/assets/e85cff76-f888-4ff1-afd7-1a255eae9f2f" />
-
-
 <img width="1280" height="391" alt="image" src="https://github.com/user-attachments/assets/4533deaf-4d60-4215-8e53-a38e8ca75af7" />
 <img width="1350" height="66" alt="image" src="https://github.com/user-attachments/assets/e85cff76-f888-4ff1-afd7-1a255eae9f2f" />
 
@@ -13,5 +10,14 @@
 </p>
 
 <p align="center">
-[sp](https://yearninglyy.straw.page/)
-</p> 
+  <a href="https://yearninglyy.straw.page/"><em>sp</em></a> ノ
+  <a href="https://yearninglyy.atabook.org/"><em>ata</em></a> ノ
+  <a href="https://colormytree.me/2025/01HH0FP7SH3FHJRD580PHQ183B"><em>tree</em></a>
+</p>
+
+<p align="center">
+  <sub>
+    layout made by
+    <a href="https://www.tumblr.com/velaazuretail?source=share">velaazuretail</a>
+  </sub>
+</p>
