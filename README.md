@@ -15,11 +15,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yearningly&label=言&color=42856a&style=flat" />
-</p>
-
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/30ff9843-71ba-4910-a378-efecbb501177" width="120" />
 </p>
 
