@@ -21,7 +21,6 @@
 <p align="center">
   <a href="https://yearninglyy.straw.page/"><em>sp</em></a> ノ
   <a href="https://yearninglyy.atabook.org/"><em>ata</em></a> ノ
-  <a href="https://colormytree.me/2025/01HH0FP7SH3FHJRD580PHQ183B"><em>tree</em></a>
 </p>
 
 <p align="center">
