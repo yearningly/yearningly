@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://yearninglyy.straw.page/"><em>sp</em></a> ノ
-  <a href="https://yearninglyy.atabook.org/"><em>ata</em></a> ノ
+  <a href="https://yearninglyy.atabook.org/"><em>ata</em></a>
 </p>
 
 <p align="center">
