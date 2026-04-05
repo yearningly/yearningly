@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://static.wikitide.net/projectsekaiwiki/thumb/3/3e/Ichika_39_gacha_cutout.png/289px-Ichika_39_gacha_cutout.png" width="300" align="left">
+<img src="https://static.wikitide.net/projectsekaiwiki/thumb/3/3e/Ichika_39_gacha_cutout.png/289px-Ichika_39_gacha_cutout.png" width="200" align="left">
 
 <div style="margin-top:180px; margin-left:-60px;">
 
