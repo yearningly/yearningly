@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://i.ibb.co/99GWJpkj/tenor-ezgif-com-gif-maker.gif" width="200" align="left">
+<img src="https://i.ibb.co/99GWJpkj/tenor-ezgif-com-gif-maker.gif" width="350" align="left">
 
 <div style="margin-top:180px; margin-left:-60px;">
 
@@ -13,6 +13,10 @@
 
 <span style="font-size:10px; opacity:0.7;">
 open to matching on github ^_^
+</span>
+
+<span style="font-size:6px; opacity:0.3;">
+lyney lover since 1988
 </span>
 
 </div>
