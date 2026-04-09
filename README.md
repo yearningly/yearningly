@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://tenor.com/mOeTs3srsxT.gif" width="200" align="left">
+<img src="https://ibb.co/GQ1ZJXR9" width="200" align="left">
 
 <div style="margin-top:180px; margin-left:-60px;">
 
