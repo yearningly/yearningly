@@ -17,9 +17,7 @@ open to matching on github ^_^
 
 <br>
 
-<span style="font-size:6px; opacity:0.3;">
-lyney lover since 1988
-</span>
+<sub><i>lyney lover since 1988</i></sub>
 
 </div>
 </p>
