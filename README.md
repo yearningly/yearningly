@@ -1,5 +1,5 @@
 <p align="left">
-<img src="https://i.ibb.co/99GWJpkj/tenor-ezgif-com-gif-maker.gif" width="350" align="left">
+<img src="https://i.ibb.co/V54zq2M/tumblr-95f8e0f584113382101128ce133053b5-71b16e7b-540.png" width="250" align="left">
 
 <div style="margin-top:180px; margin-left:-60px;">
 
