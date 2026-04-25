@@ -1,5 +1,5 @@
-<p align="left">
-<img src="https://i.ibb.co/V54zq2M/tumblr-95f8e0f584113382101128ce133053b5-71b16e7b-540.png" width="450" align="left">
+<p align="right">
+<img src="https://i.ibb.co/C5mkGTmv/kamisato-ayaka-skin-render-springbloom-missive-by-aintnora-dfmbc5y.png" width="450" align="right">
 
 <div style="margin-top:180px; margin-left:-60px;">
 
